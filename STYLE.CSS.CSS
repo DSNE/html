@@ -1,0 +1,83 @@
+p{
+
+color:black
+
+
+}
+body{
+	
+
+		background-color: #000000
+		
+		
+}
+
+#topbar{
+	
+		min-height:300px;
+		width:100%;
+		background-color:purple;
+
+
+}
+
+
+#topbar p{
+		
+		font-size: 4vmin;
+		display: inline-block;
+		margin-top:-5%;
+		margin-left:10%;
+
+
+}
+#steve{
+		
+		transform: rotate(360deg);
+	font-size: 4vmin;	
+
+	margin-left:76%;
+	margin-top: 5px;
+	max-width:50%;
+	max-height:50%;
+	display: inline-block
+}	
+
+#mainsection{
+	
+	height: 60%;
+	width: 90%;
+	background-color: yellow;
+	border-radius: 15px;
+	margin-left: 5%;
+	margin-top: 5%;
+}
+
+p{
+	
+	font-size: 4vmin;
+		display: block;
+		margin-left: 3%;
+		margin-right: 3%;
+		word-break: keep-all;
+}
+
+
+ button {
+    background: #4CAF50;
+    color: #fff;
+    padding: 1rem 1.5rem;
+    margin-bottom: 1rem; 
+   font-size: 5vmin;
+	margin-left: 0%;
+	margin-right: 3%;
+	display: block;
+}		
+#pops {
+	
+	font-size: 5vmin;
+
+}
+		
+		
+	
